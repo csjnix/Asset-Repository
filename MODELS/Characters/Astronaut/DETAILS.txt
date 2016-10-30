@@ -1,0 +1,1 @@
+Import to Unreal Engine with -90.0 Z Rotation and 0.40 Scale.
